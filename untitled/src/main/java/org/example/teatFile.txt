@@ -1,1 +1,2 @@
-Добавил новый файл
+add new file
+add first string
