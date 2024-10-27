@@ -1,2 +1,1 @@
-add new file
-add first string
+Добавил новый файл
